@@ -26,8 +26,8 @@
 ### 3. Camera사용법
 - 자세한 내용은 doc를 참고
 - 자주 사용되는 PerspectiveCamera를 대표적으로 예시
-  -> (field on view:카메라가 보는 시야 범위각도, aspect ratio:3D카메라 비율, view frustum(near):카메라의 깊이(가까이 갈건지),
-      view frustum(far):카메라의 깊이(멀리 갈건지))
+  -> (field on view:카메라가 보는 시야 범위각도(수평이 아닌 수직 시야각), aspect ratio:3D카메라 비율(화면비율로 보통 너비를 높이로 나눈 값), view frustum(near):카메라의 깊이(가시(시야)거리의 하한 임계치),
+      view frustum(far):카메라의 깊이(가시(시야)거리의 상한 임계치)
 ### 4. renderer
 - 공식 문서 : https://threejs.org/docs/?q=RENDE#api/en/constants/Renderer
 
