@@ -47,3 +47,5 @@
 - 공식 문서 : https://threejs.org/docs/?q=con#examples/en/controls/ArcballControls
 ### 8. TextureLoader : 3D파일의 겉 표면에 Image를 넣을 수 있다.
 - 공식 문서 : https://threejs.org/docs/?q=texture#api/en/loaders/TextureLoader
+
+<img src="![GI](https://github.com/KoreaMoney/three.js-Beginner/assets/117058112/9112ffd1-af67-4852-825b-6d73e334f9a1)"/>
